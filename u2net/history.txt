@@ -1,0 +1,13 @@
+
+Modification history
+
+---------------------------------
+Data: December 1, 2020
+File: u2net.py
+
+Removed U2NETP class.
+Deleted unneccesary import of torchvision.models.
+Changed the following functions to suppress user warnings from pytorch.
+    nn.functional.upsample -> nn.functional.interpolate
+	nn.functional.sigmoid  -> torch.sigmoid
+---------------------------------

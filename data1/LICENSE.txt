@@ -1,0 +1,1 @@
+This pretrained model and input data are derivatives of "The KITTI Vision Benchmark Suite" by Karlsruhe Institute of Technology and Toyota Technological Institute at Chicago, used under CC BY-NC-SA 3.0 (https://creativecommons.org/licenses/by-nc-sa/3.0/). This pretrained model and input data are licensed under CC BY-NC-SA 3.0 by Sony Group Corporation.

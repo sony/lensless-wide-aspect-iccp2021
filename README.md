@@ -14,4 +14,4 @@ python run.py
 The results will be stored in the "result" folder.
 
 ## License
-This software is released under the MIT License, see LICENSE.txt.
+This software is released under the MIT License, see LICENSE.

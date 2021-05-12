@@ -1,0 +1,9 @@
+lensless-wide-aspect-iccp2021
+
+THIRD-PARTY SOFTWARE NOTICES AND INFORMATION
+Do Not Translate or Localize
+
+This project incorporates components from the projects listed below. The original copyright notices and the licenses under which Sony Group Corporation received such components are set forth below. Sony Group Corporation reserves all rights not expressly granted herein, whether by implication, estoppel or otherwise.
+
+1. u2net/ (https://github.com/xuebinqin/U-2-Net)
+2. data1/ (http://www.cvlibs.net/datasets/kitti/)
