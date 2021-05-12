@@ -13,11 +13,5 @@ python run.py
 ```
 The results will be stored in the "result" folder.
 
-If you want to see the results for real scene data (data2 folder), change the value of `is_real_scene` from False to True in run.py.
-```python
-    is_real_scene = True   # False: for "data1", True: for "data2"
-```
-
-
 ## License
 This software is released under the MIT License, see LICENSE.txt.
