@@ -15,5 +15,9 @@ python run.py
 ```
 The results will be stored in the "result" folder.
 
+## Requirements
+A CUDA supporting GPU is required to run this code.
+For other Python package requirements, please refer to requirements.txt.
+
 ## License
 This software is released under the MIT License, see LICENSE.
