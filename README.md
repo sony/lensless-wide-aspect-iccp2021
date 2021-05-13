@@ -7,6 +7,8 @@ The source code is ready-to-run and includes a pre-trained U2-net model generate
 
 The code is written in Python, and was tested using the Python 3.7.6 interpreter. The repository also contains examples of raw sensor images which can be directly used as input for the reconstruction code.
 ## How to use
+When cloning the repository, please make sure that you have installed Git LSF on your computer.
+
 run:
 ```
 python run.py
